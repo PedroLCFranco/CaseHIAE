@@ -26,11 +26,8 @@ Monte uma apresentação com foco em clareza e interpretação para públicos n�
 
 Entrega
 Envie:
-
 Código SQL com comentários;
-
 PDF com os dashboards;
-
 Apresentação final compilada.
 
 🔗 Acesse os dados da PNAD COVID19 - IBGE
